@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelorina
 - 👀 I’m interested Coding, Hacking, CTF, Bug Bounty Hunting.
-- 🌱 I’m currently learning reactjs and python.
+- 🌱 I’m currently learning reactjs, firebase,tailwind and django.
 - 🌱 I'm a student in the field of IT.
 - 💞️ I’m looking to collaborate in Website Development.
 - 📫 You can reach me using my email -orinamichael4@gmail.com - twitter @OrinahC
